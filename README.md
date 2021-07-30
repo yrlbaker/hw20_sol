@@ -1,6 +1,18 @@
 # hw20_sol
 Homework 20 - solidity
 
+
+# Goal:
+To create three ProfitSplitter contracts.
+
+# Explanation of Contract #1 - *AssociateProfitSpliiter.sol* (APS)
+## How APS works:
+
+## What is the motivation for the APS contract?
+
+
+
+
 ## to do for HW 20:
 - Create a README.md that explains how each of the contracts work and what the motivation for each of the contracts is. 
 
