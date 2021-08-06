@@ -13,11 +13,22 @@ To pay associate-level employees quickly and equitably.
 
 
 
-## to do for HW 20:
+## Screenshots illustrating functionalities of:
 
-- Provide screenshots to illustrate the functionality (e.g. how you send transactions, how the transferred amount is then distributed by each of the contracts, and how the timelock functionality can be tested with the fastforward function). 
+![first step: compiler](https://raw.githubusercontent.com/yrlbaker/hw20_sol/main/hw20/compiler.jpg)
+
+![second step: adding addresses from ganache](https://raw.githubusercontent.com/yrlbaker/hw20_sol/main/hw20/ganache_add.jpg)
+
+![third step: transact with three addresses](https://raw.githubusercontent.com/yrlbaker/hw20_sol/main/hw20/part_3_deploy.jpg)
+
+![Unsuccessful result after transact](https://raw.githubusercontent.com/yrlbaker/hw20_sol/main/hw20/unsucessful.jpg)
+
+![After several unsuccessful attempts, used At Address](https://raw.githubusercontent.com/yrlbaker/hw20_sol/main/hw20/using_at_address.jpg)
+
+![Final result](https://raw.githubusercontent.com/yrlbaker/hw20_sol/main/hw20/final_result.jpg)
 
 
+The testnet address for this project:
 
-- Upload the README.md to a Github repository and provide the testnet address for others to interact with the contract.
+0xE996244fB6474b5cd6ab738F871739E1fa417817
 
